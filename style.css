@@ -480,6 +480,7 @@ header a.primary-btn:hover {
 
 .team a {
   margin-top: 50px;
+  width: fit-content;
 }
 
 .blog {
